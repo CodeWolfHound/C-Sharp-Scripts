@@ -1,2 +1,1 @@
-Some source code i use to make my code work for my unity game in development
-Much has left to be desired but constantly working at it every day after work in my own personal time.
+This is a collection of C# source code used to support my Unity 5 game currently in development. While there's still plenty of room for improvement, I’ve been steadily refining it each day after work in my personal time.
